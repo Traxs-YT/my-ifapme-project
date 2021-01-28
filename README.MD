@@ -1,5 +1,5 @@
-# My project
+# Mon project
 
-## Intro
+## Introduction
 
-What is my project
+Ce que fait mon projet
